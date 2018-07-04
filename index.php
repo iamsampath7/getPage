@@ -1,5 +1,7 @@
 <html>
 <head>
+  <meta name="google-site-verification"
+             content="<meta name="google-site-verification" content="xiLVgcZbqMDF-tRL7Xt-xWZSS1lkVqkjsutOUas4wZY" />" />
 <title>
 index</title>
 </head>
