@@ -15,7 +15,7 @@ index</title>
 </tr>
 <tr>
 <td>Password :</td>
-<td><input type="text" name="password" /></td>
+<td><input type="password" name="password" /></td>
 </tr>
 <tr>
 <td><input type="submit" value="login"/></td>
